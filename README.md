@@ -8,6 +8,7 @@
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
 3. Make a Pull Request (PR) via github.
+4. Fuck(By rishabh)
 
 ## Contributors:
 
